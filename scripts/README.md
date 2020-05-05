@@ -1,2 +1,3 @@
 # scripts
-# added bash ngs pipeline script (pipeline.sh)
+# added bash ngs pipeline script
+# added the NGS0001_pipeline script
