@@ -1,4 +1,5 @@
 # BIOINFORMATICS_COURSE
-Added bash ngs pipleine script
-Added R assignment html documet
-Added ngs assignment script
+# This repo contains  the following Advanced bioinformatics assignment documents 
+# The R assignment html document
+# Added ngs assignment script
+# It also contains the bash ngs workshop script
